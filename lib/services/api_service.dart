@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 class ApiService {
   static const String _baseUrl = 'tasty.p.rapidapi.com';
   static const Map<String, String> _headers = {
-    'X-RapidAPI-Key': '440a9cd40dmshc33edc8dfe95532p1f8fd5jsnabc0567bf70a', // Replace this
+    'X-RapidAPI-Key': '440a9cd40dmshc33edc8dfe95532p1f8fd5jsnabc0567bf70a', 
     'X-RapidAPI-Host': 'tasty.p.rapidapi.com',
   };
 
